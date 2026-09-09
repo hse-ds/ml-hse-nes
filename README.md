@@ -49,7 +49,8 @@ O<sub>итоговая</sub> = Округление(0.5 * ДЗ + 0.25 * КР + 0
 
 # Лекции
 
-**Лекция 1.** Введение в машинное обучение. KNN. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture01-intro-knn.pdf)
+**Лекция 1.** Введение в машинное обучение. KNN. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture01-intro-knn.pdf)\
+**Лекция 2.** Линейная регрессия. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture02-linreg.pdf)
 
 
 
@@ -73,7 +74,8 @@ O<sub>итоговая</sub> = Округление(0.5 * ДЗ + 0.25 * КР + 0
 
 ## Курсы по машинному обучению и анализу данных
 
-- [Онлайн-учебник по машинному обучению от ШАД](https://academy.yandex.ru/handbook/ml)
+- [Хендбук от Яндекс по python](https://education.yandex.ru/handbook/python)
+- [Онлайн-учебник по машинному обучению от ШАД](https://education.yandex.ru/handbook/ml)
 - [Курс по машинному обучению К.В. Воронцова](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29)
 - [Курс на платформе "Открытое образование"](https://openedu.ru/course/hse/INTRML/)
 
