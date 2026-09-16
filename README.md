@@ -50,7 +50,8 @@ O<sub>итоговая</sub> = Округление(0.5 * ДЗ + 0.25 * КР + 0
 # Лекции
 
 **Лекция 1.** Введение в машинное обучение. KNN. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture01-intro-knn.pdf)\
-**Лекция 2.** Линейная регрессия. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture02-linreg.pdf)
+**Лекция 2.** Линейная регрессия. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture02-linreg.pdf)\
+**Лекция 3.** Линейная регрессия. Градиентный спуск. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture03-grad.pdf)
 
 
 
