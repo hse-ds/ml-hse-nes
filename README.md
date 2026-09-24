@@ -51,7 +51,8 @@ O<sub>итоговая</sub> = Округление(0.5 * ДЗ + 0.25 * КР + 0
 
 **Лекция 1.** Введение в машинное обучение. KNN. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture01-intro-knn.pdf)\
 **Лекция 2.** Линейная регрессия. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture02-linreg.pdf)\
-**Лекция 3.** Линейная регрессия. Градиентный спуск. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture03-grad.pdf)
+**Лекция 3.** Линейная регрессия. Градиентный спуск. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture03-grad.pdf) \
+**Лекция 4.** Линейная классификация. Логистическая регрессия. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture04-logreg.pdf)
 
 
 
@@ -78,6 +79,16 @@ O<sub>итоговая</sub> = Округление(0.5 * ДЗ + 0.25 * КР + 0
 **Дедлайн**:  04 октября 2026 года 23:59
 
 **Ссылка**: https://github.com/hse-ds/ml-hse-nes/blob/main/2026/homeworks/homework_1.ipynb
+
+## Задание 2. Теория линейных моделей
+
+В этом задании вам нужно решить несколько задач по производным, линейной алгебре, градиентному спуску, линейной и логистической регрессиям.
+
+**Мягкий дедлайн**:  06 октября 2026 года 23:59
+
+**Дедлайн**:  11 октября 2026 года 23:59
+
+**Ссылка**: https://github.com/hse-ds/ml-hse-nes/blob/main/2026/homeworks/homework_2.ipynb
 
 
 
