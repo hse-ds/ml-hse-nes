@@ -52,7 +52,11 @@ O<sub>итоговая</sub> = Округление(0.5 * ДЗ + 0.25 * КР + 0
 **Лекция 1.** Введение в машинное обучение. KNN. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture01-intro-knn.pdf)\
 **Лекция 2.** Линейная регрессия. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture02-linreg.pdf)\
 **Лекция 3.** Линейная регрессия. Градиентный спуск. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture03-grad.pdf) \
-**Лекция 4.** Линейная классификация. Логистическая регрессия. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture04-logreg.pdf)
+**Лекция 4.** Линейная классификация. Логистическая регрессия. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture04-logreg.pdf) \
+**Лекция 5.** Метрики качества. Переобучение. Многоклассовая классификация. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture05-metrics.pdf) \
+**Лекция 6.** Решающие деревья. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture06-trees.pdf) \
+**Лекция 7.** Композиции алгоритмов. Бэггинг. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture07-bagging.pdf) \
+**Лекция 8.** Градиентный бустинг. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture08-boosting.pdf)
 
 
 
