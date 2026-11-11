@@ -56,7 +56,8 @@ O<sub>итоговая</sub> = Округление(0.5 * ДЗ + 0.25 * КР + 0
 **Лекция 5.** Метрики качества. Переобучение. Многоклассовая классификация. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture05-metrics.pdf) \
 **Лекция 6.** Решающие деревья. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture06-trees.pdf) \
 **Лекция 7.** Композиции алгоритмов. Бэггинг. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture07-bagging.pdf) \
-**Лекция 8.** Градиентный бустинг. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture08-boosting.pdf)
+**Лекция 8.** Градиентный бустинг. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture08-boosting.pdf) \
+**Лекция 9.** Категориальные признаки. Анализ текстов. [Слайды](https://github.com/hse-ds/ml-hse-nes/blob/main/2026/lectures/lecture09-texts.pdf)
 
 
 
@@ -118,7 +119,7 @@ O<sub>итоговая</sub> = Округление(0.5 * ДЗ + 0.25 * КР + 0
 
 [Вопросы и задачи к контрольной работе (мидтерму) 2026)](https://disk.yandex.ru/i/nupFNBkhOktOpw)
 
-**Дата проведения:** 11 ноября 2026 г. на лекции.
+**Дата проведения:** 18 ноября 2026 г. на лекции.
 
 Порядок проведения контрольной работы:
 
